@@ -5,4 +5,8 @@
     <string name="no_body">No Body</string>
     <string name="accept">Accept</string>
     <string name="decline">Decline</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="please_provide_this_permission">Please provide this permission</string>
+    <string name="provide_permission">Provide Permission</string>
 </resources>

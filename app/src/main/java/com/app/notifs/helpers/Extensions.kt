@@ -25,3 +25,12 @@ fun Activity.turnScreenOnAndKeyguardOff() {
 }
 
 fun Map<String, Any?>.toBundle(): Bundle = bundleOf(*this.toList().toTypedArray())
+
+fun Bundle.printAsString(): String {
+    val stringBuilder = StringBuilder()
+    for (key in this.keySet()) {
+        val value = this.getString(key)
+        stringBuilder.append(key).append(": ").append(value).append("\n")
+    }
+    return stringBuilder.toString()
+}
