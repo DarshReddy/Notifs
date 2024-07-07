@@ -1,0 +1,10 @@
+curl --location 'https://fcm.googleapis.com/fcm/send' \
+--header 'Authorization: key=AAAA8Rem4Mc:APA91bFdK8ZBHZx2BYBCl5sJnY8QgylPYqKQhGSImr8tbbimLMh5Mctl7VXw-bEVzsaGZg58bDSKPdQ7w0AxpJNilHlTnI38y98QcLJNAtj4UlAsKKz7llA4vYWfvj-hwXD-tbhbuL9x' \
+--header 'Content-Type: application/json' \
+--data '{
+  "to": "<insert token from logs>",
+  "data": {
+    "title": "test title",
+    "body": "test message"
+  }
+}'
