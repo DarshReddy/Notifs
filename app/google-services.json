@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035483930823",
+    "firebase_url": "https://portfolio-darsh.firebaseio.com",
+    "project_id": "portfolio-darsh",
+    "storage_bucket": "portfolio-darsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035483930823:android:a245a3398bf9d96be2dee2",
+        "android_client_info": {
+          "package_name": "com.app.notifs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035483930823-22gi3fqb6t2srmmc4upvqtmir0qtlc3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHNjzKvmyoJsGYMDNG9tFI_3_TUFt2JBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035483930823-22gi3fqb6t2srmmc4upvqtmir0qtlc3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
