@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Notifs</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="no_title">No Title</string>
+    <string name="no_body">No Body</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
 </resources>
